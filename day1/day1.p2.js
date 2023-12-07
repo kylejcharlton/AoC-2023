@@ -1,4 +1,4 @@
-// Run using `node day1.js /path/to/input`
+// Run using `node day1.p2.js /path/to/input`
 const fs = require('node:fs');
 
 const STRING_NUMS = {

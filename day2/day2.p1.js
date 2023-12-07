@@ -1,4 +1,4 @@
-// Run using `node day2.js /path/to/input`
+// Run using `node day2.p1.js /path/to/input`
 const fs = require('node:fs');
 
 if (process.argv.length < 3) {
